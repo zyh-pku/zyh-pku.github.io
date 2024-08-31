@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{A_research.html}, nofooter
+== Research  
+\n
+- *Reinforcement Learning in High-frequency Market Making* ~ ~ _[https://arxiv.org/abs/2407.21025 pdf]_ ~ ~ _[https://github.com/zyh-pku/Reinforcement-Learning-and-Market-Making codes]_ \n
+with Zihan Ding
+\n
+-  *When can weak latent factors be statistically inferred?* ~ ~ _[https://arxiv.org/abs/2407.03616 pdf]_ ~ ~ _[https://github.com/zyh-pku/Inference-for-PCA-in-High-Dimensional-Factor-Model-when-Signal-to-Noise-Ratio-is-Low codes]_ \n
+with Jianqing Fan, Yuling Yan
+\n
+- *Likelihood Inference for Continuous-Time Models with Latent Variables* ~ ~ _[https://github.com/zyh-pku/Inference-in-Continuous-Time-Diffusion-Model-with-Latent-Variables codes]_ \n
+with Yacine Aït-Sahalia, Chenxu Li
